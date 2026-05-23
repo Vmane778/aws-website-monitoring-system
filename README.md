@@ -17,7 +17,7 @@ A serverless website monitoring and alerting platform built on AWS using Lambda,
 - Amazon SNS
 - Amazon DynamoDB
 - Amazon CloudWatch
-- Amazon EventBridge
+  
 
 ## Architecture
 
