@@ -5,7 +5,7 @@ A serverless website monitoring and alerting platform built on AWS using Lambda,
 ## Features
 
 - Website uptime monitoring
-- Response-time tracking
+- Responsetime tracking
 - Content validation checks
 - Real-time email alerts
 - Historical monitoring logs
